@@ -209,6 +209,6 @@ Quality Value scores computed using k-mer completeness provide a reference-free 
 ---
 
 <p align="center">
-  Made with ❤️ using the <a href="https://galaxyproject.org">Galaxy Project</a> &nbsp;|&nbsp;
+  Made using the <a href="https://galaxyproject.org">Galaxy Project</a> &nbsp;|&nbsp;
   Tutorial by <a href="https://training.galaxyproject.org">Galaxy Training Network</a>
 </p>
