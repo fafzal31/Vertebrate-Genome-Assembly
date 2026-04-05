@@ -132,27 +132,9 @@ Final assemblies are evaluated using a multi-pronged QC strategy:
 
 ---
 
-## Repository Structure
 
-```
-📦 vgp-genome-assembly/
-├── 📁 outputs/              # Raw output files from each workflow stage
-│   ├── genome_profile/      # GenomeScope2 plots and Meryl databases
-│   ├── hifi_assembly/       # hifiasm GFA and FASTA outputs (Hap1 & Hap2)
-│   ├── purging/             # purge_dups outputs and coverage plots
-│   ├── scaffolding/         # Hi-C scaffolded assemblies
-│   └── qc/                  # BUSCO, Merqury, and gfastats reports
-│
-├── 📁 visualizations/       # All plots and charts generated during the pipeline
-│   ├── genomescope2/        # K-mer frequency plots (linear & log scale)
-│   ├── coverage_plots/      # Read depth distribution histograms
-│   ├── hic_contact_maps/    # Hi-C interaction heatmaps
-│   └── busco_plots/         # BUSCO bar charts
-│
-└── README.md
-```
 
----
+
 
 ## Outputs & Visualizations
 
